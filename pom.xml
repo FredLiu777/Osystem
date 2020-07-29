@@ -15,5 +15,8 @@
         <module>osystem-member</module>
         <module>osystem-order</module>
         <module>osystem-ware</module>
+        <module>renren-fast</module>
+        <module>renren-generator</module>
+        <module>osystem-common</module>
     </modules>
 </project>

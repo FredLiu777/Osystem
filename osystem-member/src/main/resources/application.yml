@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    username: root
+    password: faf59oh8
+    url: jdbc:mysql://47.74.89.29:3306/osystem_admin_ums
+    driver-class-name: com.mysql.jdbc.Driver
+
+mybatis-plus:
+  config-locations: classpath:/mapper/**/*.xml
+  global-config:
+    db-config:
+      id-type: auto
+server:
+  port: 8000
